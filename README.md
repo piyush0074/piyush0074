@@ -20,4 +20,4 @@
 
 ## I studied at...:school:
 - Masters in Computer Application @ [NIT Kurukshetra](http://nitkkr.ac.in/)
-- BBachelors's in Computer Application @ [Bharati Vidyapeeth Univeristy Delhi ](https://bvuniversity.edu.in/)
+- Bachelors's in Computer Application @ [Bharati Vidyapeeth Univeristy Delhi ](https://bvuniversity.edu.in/)

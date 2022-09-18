@@ -1,2 +1,2 @@
 ## Skills I acquired...
-- Backend  - Typescript 
+**-** Backend • Typescript 
